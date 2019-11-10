@@ -3,7 +3,7 @@ Below you can find a list of my recent publications with a short description.
 ## 2019
 ### Conference Papers
 [Design of a Novel Gripper System with 3D and Inkjet-Printed Multimodal Sensors for Automated Grasping of a Forestry Robot]() <br/>
-L.M. Faller, <u>C. Stetco</u> and H. Zangl <br/>
+L.M. Faller, <ins>C. Stetco</ins> and H. Zangl <br/>
 In *2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*
 
 [An All-Flexible Sensing Sole for Legged Robots](https://ieeexplore.ieee.org/document/8792287) <br/>
