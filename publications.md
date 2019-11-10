@@ -6,10 +6,10 @@ Below you can find a list of my recent publications with a short description.
 L.M. Faller, C. Stetco, T. Mitterer and H. Zangl <br/>
 In *2019 IEEE International Conference on Flexible and Printable Sensors and Systems (FLEPS)*
 
-[On-Wing Temperature Estimation and Control for Anti-Icing System on Aircraft]() <br/>
+[On-Wing Temperature Estimation and Control for Anti-Icing System on Aircraft](https://ieeexplore.ieee.org/document/8826924) <br/>
 H. Gietler, C. Stetco, J.P. Leitzke and H. Zangl <br/>
 In *2019 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)*
 
-[Piezocapacitive Sensing for Structural Health Monitoring in Adhesive Joints]() <br/>
+[Piezocapacitive Sensing for Structural Health Monitoring in Adhesive Joints](https://ieeexplore.ieee.org/document/8827065) <br/>
 C. Stetco, O. Sam-Daliri, L.M. Faller and H. Zangl <br/>
 In *2019 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)*
