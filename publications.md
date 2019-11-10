@@ -1,4 +1,4 @@
-Below you can find a list of my recent publications with a short description.
+Below you can find a list of my recent publications. 
 
 ## 2019
 ### Conference Papers
