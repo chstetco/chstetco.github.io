@@ -14,4 +14,8 @@ layout: default
   </div>
 
   {% include disqus.html %}
+  {% for post in site.posts %}
+    <img src="{{ site.baseurl }}/images/{{ post.img }}">
+  {% endfor %}
+  
 </article>
