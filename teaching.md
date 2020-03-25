@@ -1,7 +1,7 @@
 In my PhD thesis I am involved in the project **CapSize** which is a joint project between the University of Klagenfurt, Joanneum Research ROBOTICS, FH Kaernten and EED Automation GmbH.
 
 </br>
-Project Statement:
+### Project Statement:
 > The goal of the project is to develop a modular human robot work cell, 
  where a human can collaborate and interact with the robot in a safe and intuitive way. 
  The system utilizes an easy to use gesture control based human robot interface, 
