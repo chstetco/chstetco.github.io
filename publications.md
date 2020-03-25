@@ -7,12 +7,20 @@ Below you can find a list of my recent publications.
 In *2020 IEEE International Conference on Robotics and Automation (ICRA)*. 2020. <br/>
 [[video]](https://www.youtube.com/watch?v=GEIvjmaUwdY)
 
+[Gesture-based Contactless Control of Mobile Manipulators using Capacitive Sensing]() <br/>
+<ins>C. Stetco</ins>, S. Muehlbacher-Karrer, M. Lucchi, M. Weyrer, L.M. Faller and H. Zangl <br/>
+In *2020 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)*. 2020.
+
+[Scalable Retrofit Angular Position Sensor System]() <br/>
+H. Gietler, <ins>C. Stetco</ins> and H. Zangl <br/>
+In *2020 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)*. 2020.
+
 ## 2019
 ### Conference Papers
 [Design of a Novel Gripper System with 3D and Inkjet-Printed Multimodal Sensors for Automated Grasping of a Forestry Robot](https://ieeexplore.ieee.org/document/8968134) <br/>
 L.M. Faller, <ins>C. Stetco</ins> and H. Zangl <br/>
 In *2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*. 2019.  <br/>
-[video](https://www.youtube.com/watch?v=B1S46LqfG48)
+[[video]](https://www.youtube.com/watch?v=B1S46LqfG48)
 
 [An All-Flexible Sensing Sole for Legged Robots](https://ieeexplore.ieee.org/document/8792287) <br/>
 L.M. Faller, <ins>C. Stetco</ins>, T. Mitterer and H. Zangl <br/>
