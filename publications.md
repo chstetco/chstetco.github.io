@@ -5,7 +5,7 @@ Below you can find a list of my recent publications.
 [Radar Sensors in Collaborative Robotics: Fast Simulation and Experimental Validation]() <br/>
 <ins>C. Stetco</ins>, B. Ubezio, S. Muehlbacher-Karrer and H. Zangl <br/>
 In *2020 IEEE International Conference on Robotics and Automation (ICRA)*. 2020. <br/>
-[video](https://www.youtube.com/watch?v=GEIvjmaUwdY)
+[[video]](https://www.youtube.com/watch?v=GEIvjmaUwdY)
 
 ## 2019
 ### Conference Papers
