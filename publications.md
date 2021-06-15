@@ -5,7 +5,7 @@ Below you can find a list of my recent publications.
 [Virtual Radar: Real-Time Millimeter-Wave Radar Sensor Simulation for Perception-Driven Robotics](https://ieeexplore.ieee.org/document/9387149) <br/>
 <ins>C. Schöffmann</ins>, B. Ubezio, C. Böhm, S. Mühlbacher-Karrer and H. Zangl <br/>
 In *IEEE Robotics and Automation Letters, vol. 6, no. 3, pp. 4704-4711, July 2021*. <br/>
-[[video]](https://www.youtube.com/watch?v=R3ZSykLs5iA)
+[[video]](https://www.youtube.com/watch?v=R3ZSykLs5iA) [[webpage]](https://vira.aau.at) [[code]](https://https://github.com/chstetco/virtualradar)
 
 ### Conference Papers
 [A Unified Perception Benchmark for Capacitive Proximity Sensing Towards Safe Human-Robot Collaboration (HRC)]() <br/>
